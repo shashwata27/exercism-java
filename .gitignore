@@ -27,6 +27,9 @@ hs_err_pid*
 */build/
 */.idea/
 
+### Exercism ###
+*/.exercism/
+
 # Ignore Gradle GUI config
 gradle-app.setting
 
